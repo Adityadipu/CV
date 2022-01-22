@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+}
+body{
+    font-family: 'Crimson Pro', serif;
+    font-size: 20px;
+    background-color:beige;
+}
+.section1{
+    background-color: whitesmoke;
+    width:50%;
+    margin:0 auto;
+    padding: 20px;
+    
+
+}
+.profile-image{
+    height: 180px;
+    width:120px;
+    border: 5px solid white;
+    border-radius:60%;
+    float: left;
+}
+.section2{
+    float: left;
+    padding: 40px;
+    color:darkslategrey
+}
+.contact{
+    float:right;  
+    padding: 10px;  
+    
+}
+.contact p a{
+    text-decoration: none;
+    font-weight: bold;
+    color:darkslategray;
+}
+.contact p a:hover{
+   color:tomato;
+   text-decoration: underline;
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border:4px solid black;
+    margin:20px auto;
+    width:100%;
+    border-bottom: none;
+}
+.pinfo-left{
+    float:left;
+    width: 30%;
+}
+.pinfo-right{
+    float:left;
+    width: 70%;
+}
+.normalhr{
+    border:2px solid black;
+    width:100%;
+    margin:20px auto;
+    border-bottom: none;
+}
+.leftexp{
+    width:30%;
+    float:left;
+}
+.rightexp{
+    width:70%;
+    float:left;
+}
+h1,h2,h3,h4,h5,h6{
+    color:darkcyan
+}
+.rightskill{
+    width:70%;
+    float:left;
+}
+.leftskill{
+    width:30%;
+    float:left;
+}
+.leftacd{
+    width:30%;
+    float:left;
+}
+.rightacd{
+    width:70%;
+    float:left;
+}
+.rightacdl{
+    width:45%;
+    float:left;
+}
+.rightacdr{
+    width:45%;
+    float:left;
+}
+.container{
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+    
+}
+.container a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 22px;
+}
+.para{
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.container a:hover{
+    color: turquoise;
+    text-decoration:underline;
+}
